@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Aero - Portfolio",
     description:
-      ""Founder of, Proj Hangout, BTC, TGTC, VC,
+      "Founder of, Proj Hangout, BTC, TGTC, VC",
     url: "",
     siteName: "",
     images: [
